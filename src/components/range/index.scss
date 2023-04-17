@@ -1,0 +1,11 @@
+@import '../../assets/variables.scss';
+
+.range{
+    color: $text-color-label-dark;
+
+    &-text{
+        span{
+            color: $red;
+        }
+    }
+}
